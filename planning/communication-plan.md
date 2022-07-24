@@ -28,10 +28,10 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day           | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------------- | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _John Edelbi_ | 12 - 13 | 12 - 13 |  12 - 13  | 12 - 13  | 12 - 13 | 12 - 13  | 12 - 13 |
-| _name_        | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day            | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
+| -------------- | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
+| _John Edelbi_  | 12 - 13 | 12 - 13 |  12 - 13  | 12 - 13  | 12 - 13 | 12 - 13  | 12 - 13 |
+| _student name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
 
 ### How many hours everyone has per day:
 
