@@ -33,7 +33,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | _John Edelbi_  | 12 - 13 | 12 - 13 |  12 - 13  | 12 - 13  | 12 - 13 | 12 - 13  | 12 - 13 |
 | _student name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
 
-### How many hours everyone has per day:
+### How many hours everyone has per day
 
 - John Edelbi: _12h_; from 9 to 21 on slack for help on chat base?
 - name: _6h_;
