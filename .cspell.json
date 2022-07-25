@@ -1,6 +1,6 @@
 {
   "language": "en",
-  "words": [],
+  "words": ["Filmon", "Goitom"],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
