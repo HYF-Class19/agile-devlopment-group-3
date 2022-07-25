@@ -33,6 +33,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | _John Edelbi_     | 12 - 13 | 12 - 13 |  12 - 13  | 12 - 13  | 12 - 13 | 12 - 13  | 12 - 13 |
 | _Hayko Amalikyan_ | 11 - 18 | 11 - 18 |  11 - 18  | 11 - 18  | 11 - 18 | 11 - 18  | 11 - 18 |
 | _Anas Abbar_      | 08 - 13 | 08 - 13 |  22 - 00  | 08 - 13  | 08 - 14 | 08 - 23  | 08 - 10 |
+| _Zeynep Canbulut_ | 16 - 21 | 16 - 21 |  16 - 21  | 16 - 21  | 16 - 21 | 16 - 20  | 19 - 21 |
 | _student name_    | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
 
 ### How many hours everyone has per day
