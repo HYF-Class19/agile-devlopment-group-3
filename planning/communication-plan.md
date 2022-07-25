@@ -33,7 +33,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | _John Edelbi_     | 12 - 13 | 12 - 13 |  12 - 13  | 12 - 13  | 12 - 13 | 12 - 13  | 12 - 13 |
 | _Hayko Amalikyan_ | 11 - 18 | 11 - 18 |  11 - 18  | 11 - 18  | 11 - 18 | 11 - 18  | 11 - 18 |
 | _Anas Abbar_      | 08 - 13 | 08 - 13 |  22 - 00  | 08 - 13  | 08 - 14 | 08 - 23  | 08 - 10 |
-| _Filmon Goitom_   | 15 - 20 | 10 - 12 |  15 - 18  | 09 - 12  | 12 - 20 | 13 - 18  | 13 - 18 |
+| _Filmon Goitom_   | 15 - 20 | 10 - 12 |  15 - 18  | 09 - 12  | 12 - 20 | 13 - 18  | 13 - 17 |
 
 ### How many hours everyone has per day
 
