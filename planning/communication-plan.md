@@ -41,7 +41,8 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Hayko Amalikyan: _9h_; from 11 to 20.
 - Anas Abbar: _5h_; Just message me and i will answer even during my work shifts
   .
-- Filmon Goitom: _11h_; from 10 to 21. i will be available either on slack or Discord.
+- Filmon Goitom: _11h_; from 10 to 21. i will be available either on slack or
+  Discord.
 - name: _3h_;
 - name: _2h_;
 
