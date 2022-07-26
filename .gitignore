@@ -1,3 +1,15 @@
 node_modules
 accessibility_report
 **/.DS_Store
+
+# folders
+.github
+.vscode/*
+.history
+# files
+.achecker.yml
+package-lock.json
+package.json
+.prettierrc.json
+.ls-lint.yml
+
