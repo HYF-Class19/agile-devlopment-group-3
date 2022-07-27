@@ -12,7 +12,8 @@
        - Pull Requests + code review
          To be a good developer you do not need to master all the programming languages you just need to learn how to plan, collaborate and communicate with your developer friends
 
-<img src="https://qph.fs.quoracdn.net/main-qimg-7105e31a7b3f52e25f97e664a720880a-lq">
+![Tree](https://qph.fs.quoracdn.net/main-qimg-7105e31a7b3f52e25f97e664a720880a-lq)
+
 
 ## All About Trees
 
