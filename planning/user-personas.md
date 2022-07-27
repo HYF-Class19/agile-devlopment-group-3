@@ -2,8 +2,9 @@
 
 ## Team Trees
 
-**Bio**: Team Trees, stylized as #TEAMTREES, is a collaborative fundraiser that raised
-20 million U.S. dollars before the start of 2020 to plant 20 million trees.
+**Bio**: Team Trees, stylized as #TEAMTREES, is a collaborative fundraiser that
+raised 20 million U.S. dollars before the start of 2020 to plant 20 million
+trees.
 
 **Needs/Goals**: They wanted tp plant 20 million trees.
 
@@ -17,7 +18,7 @@
 
 **Needs/goals**: She has to prepare a presentation about trees.
 
-**Frustrations**: Presenting in a language everyone can understand is not an easy.
-goal for her.
+**Frustrations**: Presenting in a language everyone can understand is not an
+easy. goal for her.
 
 **Scenario**: She wants to make perfect and effective presentation for everyone.
