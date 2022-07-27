@@ -1,6 +1,27 @@
-# Name of project
+# Planning and Collaborating
 
-> A longer description
+> The main objectf this module is to learn how to planning and collaborat on
+> software projects, There is some requirements to start collaborating in the
+> team :
+
+       - A repository
+       - Planning documents
+       - Issues
+       - labels, milestones and assignees
+       - A Project Board
+       - Pull Requests + code review
+         To be a good developer you do not need to master all the programming languages you just need to learn how to plan, collaborate and communicate with your developer friends
+
+![Tree](https://qph.fs.quoracdn.net/main-qimg-7105e31a7b3f52e25f97e664a720880a-lq)
+
+## All About Trees
+
+Trees are the backbone of sustaining the life of our planet. That is why we are
+developing this website to raise awareness of the following points: -Trees are
+the lungs of the planet and without them, we cannot get enough oxygen for life
+-Trees are an important source for construction and human development -We must
+teach our children how to take care of nature and grow plants and trees to reach
+a sustainable future
 
 ## Table of contents
 
@@ -36,18 +57,7 @@
 - ...
 - ...
 
-## Setup
-
-- `npm run start`
-
-## Code Examples
-
-```js
-// the hello world program
-console.log("Hello World");
-```
-
-## Features
+## Setup## Features
 
 List of features ready and Todos for future development
 
@@ -62,7 +72,7 @@ To-do list:
 
 ## Status
 
-Project is: _in progress_
+The project is: _in progress_
 
 ## Inspiration
 
@@ -85,17 +95,17 @@ By [Name]
 
 ## Code Quality Checks
 
-- `npm run format`: Makes sure all the code in this repository is well-formatted
+- `npm run format makes sure all the code in this repository is well-formatted
   (looks good).
-- `npm run lint:ls`: Checks to make sure all folder and file names match the
+- `npm run lint: checks to make sure all folder and file names match the
   repository conventions.
 - `npm run lint:md`: Will lint all of the Markdown files in this repository.
 - `npm run lint:css`: Will lint all of the CSS files in this repository.
 - `npm run validate:html`: Validates all HTML files in your project.
-- `npm run spell-check`: Goes through all the files in this repository looking
-  for words it doesn't recognize. Just because it says something is a mistake
+- `npm run spell-check goes through all the files in this repository looking for
+  words it doesn't recognize. Just because it says something is a mistake
   doesn't mean it is! It doesn't know every word in the world. You can add new
-  correct words to the [./.cspell.json](./.cspell.json) file so they won't cause
+  correct words to the [./.cspell.JSON](./.cspell.json) file so they won't cause
   an error.
 - `npm run accessibility -- ./path/to/file.html`: Runs an accessibility analysis
   on all HTML files in the given path and writes the report to
@@ -105,9 +115,10 @@ By [Name]
 
 When you open a PR to `main`/`master` in your repository, GitHub will
 automatically do a linting check on the code in this repository, you can see
-this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
+this in the the[./.github/workflows/lint.yml](./.github/workflows/lint.yml)
+file.
 
-If the linting fails, you will not be able to merge the PR. You can double check
+If the linting fails, you will not be able to merge the PR. You can double-check
 that your code will pass before pushing by running the code quality scripts
 locally.
 
