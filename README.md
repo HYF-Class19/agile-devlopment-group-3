@@ -14,7 +14,6 @@
 
 ![Tree](https://qph.fs.quoracdn.net/main-qimg-7105e31a7b3f52e25f97e664a720880a-lq)
 
-
 ## All About Trees
 
 Trees are the backbone of sustaining the life of our planet. That is why we are
