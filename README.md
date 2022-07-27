@@ -57,18 +57,7 @@ a sustainable future
 - ...
 - ...
 
-## Setup
-
-- `npm run start`
-
-## Code Examples
-
-```js
-// the hello world program
-console.log("Hello World");
-```
-
-## Features
+## Setup## Features
 
 List of features ready and Todos for future development
 
