@@ -25,14 +25,13 @@ a sustainable future
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Planning and Collaborating](#planning-and-collaborating)
+  - [All About Trees](#all-about-trees)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
   - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Code Examples](#code-examples)
-  - [Features](#features)
+  - [Setup## Features](#setup-features)
   - [Status](#status)
   - [Inspiration](#inspiration)
   - [Contact](#contact)
@@ -51,11 +50,14 @@ a sustainable future
 
 ## Technologies
 
+- Git/GitHub
 - Node 14.16.0
-- VSC code
-- JavaScript
-- ...
-- ...
+- VS Code
+- HTML
+- CSS
+- Markdown
+- Terminal
+- Slack
 
 ## Setup## Features
 
@@ -80,7 +82,8 @@ Project by freeCodeCamp.org
 
 ## Contact
 
-By [Name]
+By
+[Agile-development-group-3](https://github.com/HYF-Class19/agile-devlopment-group-3)
 
 ## Instructions for use
 
