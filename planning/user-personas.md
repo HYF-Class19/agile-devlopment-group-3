@@ -14,11 +14,11 @@ trees.
 
 ## Aïla Nature Activist
 
-**Bio**: Aïla is an nature activist who works for project.
+**Bio**: Aïla is an nature activist who works for project
 
-**Needs/goals**: She has to prepare a presentation about trees.
+**Needs/goals**: She has to prepare a presentation about trees
 
 **Frustrations**: Presenting in a language everyone can understand is not an
-easy. goal for her.
+easy goal for her
 
-**Scenario**: She wants to make perfect and effective presentation for everyone.
+**Scenario**: She wants to make perfect and effective presentation for everyone

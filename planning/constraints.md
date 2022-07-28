@@ -11,8 +11,10 @@
 - **UI Design**
   > [our template](https://talmurshidi.github.io/ABT/)
 - **Color schemes**
+
   > `#ffffff` for background `#000000` for text color `#0000EE` for link color
   > `#551A8B` for visited link color
+
 - **Technologies**
 
   > - MarkDown
@@ -29,4 +31,4 @@
 
 - **Our Project deadline**
 
-  > 5 days
+> 5 days
