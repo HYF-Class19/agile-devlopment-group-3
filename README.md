@@ -33,22 +33,7 @@ a sustainable future.
   - [Contact](#contact)
 
 ## Screenshots
-
 ![Screenshot of All About Trees](./Screenshot1.png)
-
-# User Personas
-
-We are going to explain the important presence of Trees on our planet and the
-important role Trees play on our planet and how it is very useful.
-
-## Group of scientists
-
-- **bio**: As a scientists Jhon is interested to know more and more about trees
-  and planets.
-- **Needs/Goals**: He want to farm more trees on the earth to fight climate
-  change
-- **Frustrations**: Make his goal to happen is not east while the world grows up
-  and they cut more trees to use it
 
 ## Technologies
 
