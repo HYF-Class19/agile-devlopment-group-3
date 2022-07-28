@@ -38,12 +38,16 @@ a sustainable future.
 
 ## Technologies
 
+- Git/GitHub
 - Node 14.16.0
-- VSC code
-- JavaScript
-- ...
-- ...
+- VS Code
+- HTML
+- CSS
+- Markdown
+- Terminal
+- Slack
 
 ## Contact
 
-By [Name]
+By
+[Agile-development-group-3](https://github.com/HYF-Class19/agile-devlopment-group-3)
